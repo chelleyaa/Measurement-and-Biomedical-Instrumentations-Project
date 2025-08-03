@@ -37,7 +37,13 @@ The EMG system is composed of several key stages, from signal capture at the ski
 
 # Results
 The system was tested by measuring the EMG signal during both muscle relaxation and full contraction.
+
+
 <img width="337" height="86" alt="image" src="https://github.com/user-attachments/assets/c32d63c0-9826-4990-9de7-45c8b8b7d48a" />
+
+
+<img width="906" height="371" alt="image" src="https://github.com/user-attachments/assets/bc9ff17f-4c34-4f67-8ec8-fe12977690bc" />
+
 
 
 
